@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jandrie Klopper</h1>
-<h3 align="center">Junior Front-End Developer</h3>
+<h2 align="center">Junior Front-End Developer</h2>
 
 - 🔭 I’m currently working on becoming a junior frontend developer
 - 🌱 I’m currently learning **MERN**
@@ -12,7 +12,7 @@
 <a href="https://instagram.com/jandrieklopper_business" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jandrieklopper_business" height="30" width="40" /></a>
 </p>
 ---
-## Languages and Tools
+<3>Languages and Tools</h3>
 <img align="left" alt="html5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="css3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
