@@ -28,7 +28,7 @@
 <img align="left" alt="sql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<hr />
+<br />
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jandrieklopper&show_icons=true&locale=en" alt="jandrieklopper" /></p>
           
           
