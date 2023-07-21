@@ -28,7 +28,8 @@
 <img align="left" alt="sql" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="github" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="git" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<br />
+
+---
 <h3>Github Stats:</h3>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jandrieklopper&show_icons=true&locale=en" alt="jandrieklopper" /></p>
           
