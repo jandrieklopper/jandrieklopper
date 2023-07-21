@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **MERN**
 - 👯 I’m looking to collaborate on any projects to build a portfolio and gain hands-on experience
 - 📫 How to reach me: **jandrieklopper@gmail.com**
-<br />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jandrie-klopper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jandrie-klopper" height="30" width="40" /></a>
@@ -28,8 +28,7 @@
 <img align="left" alt="sql" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<br />
----
+<hr />
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jandrieklopper&show_icons=true&locale=en" alt="jandrieklopper" /></p>
           
           
